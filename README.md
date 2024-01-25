@@ -4,4 +4,3 @@ This repository contains the sample terraform code to deploy the following use c
 
 1) SQS and S3(Object create or delete events)
 2) API Gateway with Lambda(hello-world)
-3) API Gateway with Lambda writing/reading from DynamoDB (Work In Progress)
